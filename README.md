@@ -1,17 +1,16 @@
 Restaurant Reviews Stage 1
-===============================
 
-#Table of Contents
+# Table of Contents
 
-*[Description](#description)
-*[How Run?](#how-to-run)
-*[Dependencies](#code-dependencies)
+* [Description](#description)
+* [How Run?](#how-to-run)
+* [Dependencies](#code-dependencies)
 
-##Description
+## Description
 
 This project is based on creating offline first webpage which can also work when user is offline
 
-##How To Run
+## How To Run
 
 In order to run the application you have some options:
 
