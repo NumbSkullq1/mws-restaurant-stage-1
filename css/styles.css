@@ -136,8 +136,6 @@ nav h1 a {
 #restaurants-list {
   background-color: #f3f3f3;
   list-style: outside none none;
-  margin: 0;
-  padding: 30px 15px 60px;
   text-align: center;
 }
 #restaurants-list li {
@@ -322,6 +320,7 @@ nav h1 a {
 			flex-wrap: wrap;
 			margin: auto;
 			width: 100%;
+			padding: 0;
 		}
 		#restaurants-list li{
 			width: 250px;
