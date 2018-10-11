@@ -274,6 +274,37 @@ nav h1 a {
 
 
 /*============= Responsive showdown=============*/
+@media screen and (max-width: 719px) {
+	.filter-options{
+		height: 130px;
+		text-align: center;
+	}
+	.filter-options select {
+	  height: 35px;
+	  padding: 0 5px;
+	  width: 90%;
+	}
+	#restaurants-list, #reviews-container, #restaurant-container{
+		padding: 0;
+	}
+	#restaurant-container, #restaurant-cuisine,
+	#restaurant-hours, #reviews-container{
+		margin: auto;
+		text-align: center;
+	}
+	#reviews-list li{
+		text-align: left;
+		padding: 20px 20px;
+	}
+	#restaurants-list li, #reviews-list li{
+		margin: 20px auto;
+		width: 65%;
+	}
+	#restaurants-list .restaurant-img{
+		height: 220px;
+	}
+}
+
 @media screen and (min-width: 720px) and (max-width: 849px){
 		#restaurants-list{
 			display: flex;
@@ -331,7 +362,7 @@ nav h1 a {
 		  background: blue none repeat scroll 0 0;
 			float: right;
 		  width: 50%;
-			height: 735px;
+			height: 710px;
 			margin-top: 83px;
 		}
 		.inside #map {
