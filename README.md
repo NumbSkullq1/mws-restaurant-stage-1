@@ -14,7 +14,7 @@ This project is based on creating offline first webpage which can also work when
 
 In order to run the application you have some options:
 
-1. Go to this [link]() , sometimes this link does not work so if its showing error
+1. Go to this [link](https://numbskullq1.github.io/mws-restaurant-stage-1/) , sometimes this link does not work so if its showing error
   then try next method
 
 2. Run it locally, Download the .zip file or clone this project:
